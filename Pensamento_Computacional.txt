@@ -1,0 +1,13 @@
+  O pensamento computacional, apesar do seu nome sugestivo, é em essência uma habilidade "nativa" de todo ser humano. Porque o cêrebro humano, também é uma máquina, só que natural e biológica. Como o comutador, é uma criação humana, então acaba sendo uma extensão da nossa inteligência. A partir dessa consideração inicial, podemos então ter o pensamento computacional como um instinto natural que já usamos em tudo para resolver problemas, mas que aplicado à programação, pode ser refinado, mecanizado e moldulado. Então no seu processo de aprender a programar, lembre-se: o pensamento computacional é requisito básico para se programar, mas não será algo novo que você terá que aprender, como equações na escola rsrsrs, mas sim apenas obervar algo que você sempre fez inconscientemente, agora de forma consciente, mais próxima da sua percepção.
+ 
+ Esse processo de pensar computacionalmente, na resolução de problemas, pode ser dividido em 4 etapas, pilares. Que resumidamente são:
+
+1- Decompor problemas: Ao identificar um problema que não pode ser resolvido a priori, devemos tentar fatiar esse problema em outros probleminhas menores. Para então poder atacar cada um desses probleminhas com mais eficiência e assim dar uma solução completa ao todo.
+2- Indetificar padrões: é siimplesmente encontrar semelhanças, em coisas diferentes. Para que a partir dessas igualdades, possamos prever comportamentos futuros nestas coisas diferentes, através daquilo que ambas têm em comum.
+3- Abstração: significa pegar um cenário real, factual, e através da imaginação, criatividade, ideias, transformar esse cenário em algo diferente, novo, que não estará representado num caso real, mas pode ser pensado no campo das ideias. A partir dessa criação nova, talvez conseguir trazer uma inovação para o caso real em questão.
+4- Design do algoritimo: é a fase "mão na massa" do processo de programar sistemas, nesta etapa devemos construir todo o processo e passo a passo do programa de forma bem direta e objetiva. Posteriormente testar esse processo, a fim de verificar se atingiu seu objetivo (resolver um problema ou necessidade), e mesmo tendo sucesso, continuar atento para futuras melhorias ou mudanças de acordo com a necessidade.
+
+
+ Sendo assim, o pensamento computacional na programação acaba se tornando uma área de conhecimento que deve ser estudada (reaprendida) e aperfeiçoada, mas com o treino essa habilidade que já faz parte da sua natureza, sera apenas despertada e não introduzida ao seu conhecimento.
+
+
